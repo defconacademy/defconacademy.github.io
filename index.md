@@ -8,4 +8,4 @@ Do you want to leave the hallways and hack the planet? We are hackers, educators
 
 ## Ready to Begin?
 
-[Enter the DOJO](https://pwn.college/welcome/welcome/) and then get started by mastering the [basics of Linux](https://pwn.college/linux-luminarium/).
+[Create an account](https://pwn.college/register) and begin your journey through the [Linux Luminarium](https://pwn.college/dojo/defcon-academy~4bb7e17b/join/) alongside other aspiring hackers.
