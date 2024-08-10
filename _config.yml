@@ -3,3 +3,6 @@ description: DEF CON Academy
 
 theme: jekyll-theme-hacker
 show_downloads: false
+
+github:
+  is_project_page: false
